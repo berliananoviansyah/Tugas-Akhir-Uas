@@ -102,27 +102,27 @@ while True:
 
 **Output:**
 
-Tambah data
+###Tambah data
 
 ![output-pada-mainpy](fotoUAS/22.PNG)
 
 
-Ubah data
+###Ubah data
 
 ![output-pada-mainpy](fotoUAS/3.PNG)
 
 
-Lihat data
+###Lihat data
 
 ![output-lihat-data](fotoUAS/4.PNG)
 
 
-Cari data
+###Cari data
 
 ![output-cari-data](fotoUAS/5.PNG)
 
 
-Hapus data
+###Hapus data
 
 ![output-hapus-data](fotoUAS/6.PNG)
 
