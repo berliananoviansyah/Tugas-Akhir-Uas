@@ -104,7 +104,7 @@ while True:
 
 Tambah data
 
-![output-pada-main](fotoUAS/2.png)
+![output-pada-main](fotoUAS/22.png)
 
 
 Ubah data
