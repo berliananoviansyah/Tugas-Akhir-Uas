@@ -127,12 +127,6 @@ while True:
 ![output-hapus-data](fotoUAS/6.PNG)
 
 
-**Flowchart:**
-
-
-![output-praktikum-5](assets/img/flowchart.png)
-
-
 
 Deploy
 
