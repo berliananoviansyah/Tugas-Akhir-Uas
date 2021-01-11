@@ -109,22 +109,22 @@ Tambah data
 
 Ubah data
 
-![output-praktikum-5](assets/img/u.png)
+![output-pada-mainpy](fotoUAS/3.PNG)
 
 
 Lihat data
 
-![output-praktikum-5](assets/img/l.png)
+![output-lihat-data](fotoUAS/4.PNG)
 
 
 Cari data
 
-![output-praktikum-5](assets/img/c.png)
+![output-cari-data](fotoUAS/5.PNG)
 
 
 Hapus data
 
-![output-praktikum-5](assets/img/h.png)
+![output-hapus-data](fotoUAS/6.PNG)
 
 
 **Flowchart:**
