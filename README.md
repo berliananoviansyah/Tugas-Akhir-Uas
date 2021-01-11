@@ -104,7 +104,7 @@ while True:
 
 Tambah data
 
-![output-pada-main](fotoUAS/22.png)
+![output-pada-mainpy](fotoUAS/22.PNG)
 
 
 Ubah data
